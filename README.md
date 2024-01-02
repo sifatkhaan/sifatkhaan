@@ -24,7 +24,7 @@
 <p align="left"> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <a href="https://www.nextjs.net" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="php" width="40" height="40"/>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" data-canonical-src="https://img.shields.io/badge/Express%20JS-%23000000?style=for-the-badge&amp;logo=express&amp;labelColor=black&amp;color=black" style="max-width: 100%;"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" data-canonical-src="https://img.shields.io/badge/Express%20JS-%23000000?style=for-the-badge&amp;logo=express&amp;labelColor=black&amp;color=black" style="max-width: 100%;"/> </a> 
 <a>
  <img src="https://camo.githubusercontent.com/dcdb4716d192cf068d3742208e1beca4be096eca888f2bb0eb39268aad7db04d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732532304a532d2532333030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6162656c436f6c6f723d626c61636b26636f6c6f723d626c61636b" alt="Express.js Badge" data-canonical-src="https://img.shields.io/badge/Express%20JS-%23000000?style=for-the-badge&amp;logo=express&amp;labelColor=black&amp;color=black" style="max-width: 100%;"> </a>
 </p>
