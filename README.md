@@ -3,11 +3,11 @@
 <img align="center" alt="Coding" width="80%" height="300" src="https://cdn.dribbble.com/userupload/11794552/file/original-53e8266bf1b2f1e5b111c6241c444e3f.jpg?resize=850x850"
 - 🔭 I’m currently working on **Khajna Project(Daraz)**
 
-- 🌱 I’m currently learning **Next Js, React Native**
+ 🌱 I’m currently learning **Next Js, React Native**
 
-- 👯 I’m looking to collaborate on **khajna**
+ 👯 I’m looking to collaborate on **khajna**
 
-- 💬 Ask me about **react, vue, php, Laravel**
+ 💬 Ask me about **react, vue, php, Laravel**
 
 - 📫 How to reach me **sifatkhan9330@gmail.com, +880151524934249342**
 
