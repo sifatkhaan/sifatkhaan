@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Sifat Khan</h1>
 <h3 align="center">A passionate FullStack developer from Bangladesh</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/11794552/file/original-53e8266bf1b2f1e5b111c6241c444e3f.jpg?resize=850x850"
+<img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/userupload/11794552/file/original-53e8266bf1b2f1e5b111c6241c444e3f.jpg?resize=850x850"
 - 🔭 I’m currently working on **Khajna Project(Daraz)**
 
 - 🌱 I’m currently learning **Next Js, React Native**
