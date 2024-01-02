@@ -2,9 +2,9 @@
 <h2 align="left">Hi 👋, This is Sifat Khan</h2> <h3 align="center">A passionate FullStack developer from Bangladesh</h3>
 <p>🔭 I’m currently working on Khajna Project(Daraz)</p> 
  <p>🌱 I’m currently learning **Next Js, React Native</p>
- <p>👯 I’m looking to collaborate on **khajna**</p>
- <p>👯 💬 Ask me about **react, vue, php, Laravel**</p>
- <p> 📫 How to reach me **sifatkhan9330@gmail.com, +880151524934249342**</p>
+ <p>👯 I’m looking to collaborate on khajna</p>
+ <p>👯 💬 Ask me about react, vue, php, Laravel</p>
+ <p> 📫 How to reach me sifatkhan9330@gmail.com, +880151524934249342</p>
  
  
 
