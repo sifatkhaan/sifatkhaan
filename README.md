@@ -1,4 +1,4 @@
-### Hi, This Sifat Khan 👋
+### Hi, This is Sifat Khan 👋
 
 
 Here are some ideas to get you started:
