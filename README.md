@@ -4,7 +4,7 @@
  <p>🌱 I’m currently learning **Next Js, React Native</p>
  <p>👯 I’m looking to collaborate on khajna</p>
  <p>👯 💬 Ask me about react, vue, php, Laravel</p>
- <p> 📫 How to reach me sifatkhan9330@gmail.com, +880151524934249342</p>
+ <h4> 📫 How to reach me sifatkhan9330@gmail.com, +8801515249342</h4>
  
  
 
